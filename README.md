@@ -1,6 +1,6 @@
-## Hi there 👋
+
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on  <br>A full-featured **Laravel eCommerce application (95% complete)** with authentication, cart, wishlist, discount handling, and inventory management.<br><br>👯 I’m looking to collaborate on  <br>Open-source Laravel projects and real-world web applications.<br><br>🤝 I’m looking for help with  <br>Payment gateway integration (SSLCommerz & Stripe) and advanced role management.<br><br>🌱 I’m currently learning  <br>Advanced Laravel concepts, API development, and clean architecture practices.<br><br>💬 Ask me about  <br>Laravel, PHP, MVC structure, authentication systems, and cart logic.<br><br>⚡ Fun fact  <br>I enjoy solving complex bugs and building practical web solutions 🚀
+##<br><br>🔭 I’m currently working on  <br>A full-featured **Laravel eCommerce application (95% complete)** with authentication, cart, wishlist, discount handling, and inventory management.<br><br>👯 I’m looking to collaborate on  <br>Open-source Laravel projects and real-world web applications.<br><br>🤝 I’m looking for help with  <br>Payment gateway integration (SSLCommerz & Stripe) and advanced role management.<br><br>🌱 I’m currently learning  <br>Advanced Laravel concepts, API development, and clean architecture practices.<br><br>💬 Ask me about  <br>Laravel, PHP, MVC structure, authentication systems, and cart logic.<br><br>⚡ Fun fact  <br>I enjoy solving complex bugs and building practical web solutions 🚀
 
 
 ## 🌐 Socials:
