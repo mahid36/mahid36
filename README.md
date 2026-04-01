@@ -1,5 +1,15 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on  <br>A full-featured **Laravel eCommerce application (95% complete)** with authentication, cart, wishlist, discount handling, and inventory management.<br><br>👯 I’m looking to collaborate on  <br>Open-source Laravel projects and real-world web applications.<br><br>🤝 I’m looking for help with  <br>Payment gateway integration (SSLCommerz & Stripe) and advanced role management.<br><br>🌱 I’m currently learning  <br>Advanced Laravel concepts, API development, and clean architecture practices.<br><br>💬 Ask me about  <br>Laravel, PHP, MVC structure, authentication systems, and cart logic.<br><br>⚡ Fun fact  <br>I enjoy solving complex bugs and building practical web solutions 🚀<br>
+I am a passionate Web Developer currently focusing on Backend Development with PHP and Laravel.
+I love building clean, efficient, and user-friendly web applications that solve real-world problems.
+My goal is to grow as a full-stack developer and contribute to innovative digital solutions.
+
+Specialties:
+» Backend Development (PHP & Laravel)
+» Database Management (MySQL)
+» API Integration
+» Dynamic Website Development
+» Version Control (Git & GitHub)
+» Basic Frontend (HTML, CSS, JavaScript)
 
 
 ## 🌐 Socials:
